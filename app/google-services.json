@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "145327846757",
+    "firebase_url": "https://turkisiwhatsapp.firebaseio.com",
+    "project_id": "turkisiwhatsapp",
+    "storage_bucket": "turkisiwhatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145327846757:android:a92394fb5b80b635",
+        "android_client_info": {
+          "package_name": "com.turkisiwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145327846757-cjtr8vl08ta9pgu18c433ibdkhqlotfl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.turkisiwhatsapp",
+            "certificate_hash": "d7b47fe0540be777147781cd5b455f186f8d087f"
+          }
+        },
+        {
+          "client_id": "145327846757-s9mb2mfc63ns16nb7adle8fomepu5t6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGuYO2udvTWi3ZlphXS_2a9PpSJGZD5CM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145327846757-s9mb2mfc63ns16nb7adle8fomepu5t6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15pt"
+        android:layout_marginTop="40dp"
+        android:text="Arkadas Ekle"
+        android:layout_marginLeft="80dp"
+        />
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:hint="Arkadaşınızın Mail adresi"
+        android:layout_marginLeft="60dp"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/arkadasMailAdres"
+            android:layout_marginLeft="20dp"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="İstek Yolla"
+            android:layout_marginLeft="80dp"
+            android:id="@+id/arkadasYolla"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+</LinearLayout>

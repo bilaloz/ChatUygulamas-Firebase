@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TurkIsiWhatsapp</string>
+    <string name="title_activity_giris_activitiy">GirisActivitiy</string>
+    <string name="title_activity_kayit_activitiy">KayitActivitiy</string>
+    <string name="title_activity_mesaj">MesajActivity</string>
+</resources>
